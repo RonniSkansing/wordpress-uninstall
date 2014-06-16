@@ -1,8 +1,11 @@
 wordpress-uninstall
 ===================
 
-Removes wordpress and database associated
+Removes wordpress. Saves yourself the trouble of finding deleting the files and the database. Use this uninstall script. Hopefully soon in the wp repo.
 
-- Install to uninstall
+1. (soon) install from plugin menu and activate plugin
 
-/ Copy uninstall to wp-content/plugins/ then activate in controlpanel.
+2. Go to Tools -> Uninstall
+
+3. Click uninstall
+
