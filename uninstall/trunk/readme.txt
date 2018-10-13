@@ -8,11 +8,8 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Flush away Wordpress files and the associated database.
 
 == Description ==
-
-Finally you can do what you always wanted, flush out Wordpress!
 
 Removes all Wordpress files and the associated database.
 Useful for removing a local or remote copy without having to hazzle trough
@@ -64,11 +61,6 @@ Yes.
 == Upgrade Notice ==
 
 == Arbitrary section ==
-Thanks to http://stackoverflow.com/users/4251625/mario for the fantastic banner!
+Thanks to http://paulajs.dk/ for the fantastic banner and avatar!
 
-== Security Test - Ignore ==
-(javascript:console.log(42))
-
-<h1>Test</h1>
-<script>console.log(42)</script>
 
